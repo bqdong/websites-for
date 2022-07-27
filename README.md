@@ -1,6 +1,7 @@
 ## Frontend
 
 - https://developer.mozilla.org/
+- https://web.dev/
 
 ### html
 
